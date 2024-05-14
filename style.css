@@ -10,7 +10,7 @@
 --roboto-mono: 'Roboto Mono', monospace;    
 }
 
-{
+*{
 font-weight: 400;
 }
 
@@ -58,7 +58,7 @@ border: 2px solid var(--borda);
 margin-top: 32px;
 padding: 24px;    
 }
-.parametro-titulo
+.parametro-titulo{
 font-family: var(--roboto-mono);
 font-size: 28px;}
 
